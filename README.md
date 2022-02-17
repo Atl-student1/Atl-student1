@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atl-student1
 - 👀 I’m interested in all
-- 🌱 I’m currently learning Azway
+- 🌱 I’m currently learning Axway
 - 💞️ I’m looking to collaborate on API Manager
 - 📫 How to reach me ...
 
